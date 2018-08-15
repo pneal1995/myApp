@@ -1,0 +1,24 @@
+{
+  "speakers": [{
+    "title" : "2112 by Rush",
+    "name": "Neil Peart",
+    "shortname" : "Neil_Peart",
+    "summary" : "Neil Peart is one of the most universally respected rock drummers, and is best known for his nearly superhuman, pyrotechnic drum playing, and for providing intellectual lyrics for his band's songs. Neil has served as both drummer and lyricist for the rock band Rush since 1974, joining bassist/vocalist Geddy Lee and guitarist Alex Lifeson.",
+    "description": "<p>'2112' is a 20 minute long title track from Canadian rock band Rush's 1976 album of the same name. The overture and the first section, Temples of Syrinx, were released as a single and have been featured in most of Rush's setlists since. With the combined movements being twenty minutes and thirty-three seconds long, it is the longest song or suite in Rush's library.</p>",
+    "artwork": ["Neil_Peart_1.jpg"]
+  },{
+    "title" : "When The Levee Breaks by Led Zeppelin",
+    "name": "John Bonham",
+    "shortname" : "John_Bonham",
+    "summary": "John Bonham, in full John Henry Bonham, byname Bonzo, (born May 31, 1947, Redditch, Worcestershire, England—died September 25, 1980, Windsor), British rock musician and famed heavy-handed drummer of the Led Zeppelin rock band. Bonham joined Led Zeppelin when it was formed in 1968. His aggressive drumming provided the rhythmical base for the group’s music and contributed largely to the success of the band, which gained an international reputation as pioneers of “acid rock.",
+    "description": "<p>'When the Levee Breaks' is a blues song written and first recorded by husband and wife Kansas Joe McCoy and Memphis Minnie in 1929. The song was re-worked by English rock group Led Zeppelin as the last song on Led Zeppelin IV, released in 1971. According to Led Zeppelin guitarist and producer Jimmy Page, the song's structure 'was a riff that I'd been working on, but Bonzo's drum sound really makes a difference on that point.' The famous drum performance was recorded by engineer Andy Johns by placing John Bonham and a new Ludwig drum kit at the bottom of a stairwell at Headley Grange, and recording it using two Beyerdynamic M160 microphones at the top, giving the distinctive resonant but slightly muffled sound. </p>",
+    "artwork" : ["John_Bonham_1.jpg"]
+  },{
+    "title" : "Caravan by Buddy Rich",
+    "name": "Buddy Rich",
+    "shortname" : "Buddy_Rich",
+    "summary": "Buddy Rich, byname of Bernard Rich, (born June 30/Sept. 30, 1917, Brooklyn, N.Y., U.S.—died April 2, 1987, Los Angeles, Calif.), American jazz drum virtuoso who accompanied major big bands before forming his own popular big band in the 1960s. Born into a musical family (biographies differ on his date of birth), Rich began dancing in his parents’ vaudeville act at the age of 18 months, soon acquired the stage name “Baby Traps, the Drum Wonder,” and by the age of 11 was leading a band. He began playing jazz in 1938 and soon was the rhythmic inspiration of popular swing bands",
+    "description": "<p>This crack sextet recording by Buddy Rich is one of the long lost treasures in his vast discography as a leader. 'Caravan' begins with the leader's thunderous solo, though it quickly softens with Rich taking a backseat to Most and Ruther; the remainder of the band makes a delayed entrance. Reissued as a limited-edition CD by Verve in 2005, this should be considered an essential Buddy Rich recording. </p>",
+    "artwork" : ["Buddy_Rich_1.jpg"]
+  }]
+}
