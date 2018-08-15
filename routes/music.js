@@ -1,7 +1,6 @@
 let express = require('express');
 let router = express.Router();
 
-
 router.get('/music', (req, res) => {
 
     let data = req.app.get("appData");
@@ -13,22 +12,21 @@ router.get('/music', (req, res) => {
     })
 
 })
+router.get('/music/:speakerID', (req, res) => {
+
+    let data = req.app.get("appData");
+    let speakers = data.speakers[req.params.speakerID];
 
 
-// router.get('/music/:speakerID', (req, res) => {
-
-//     let data = req.app.get("appData");
-//     let speakers = data.speakers[req.params.speakerID];
-
-
-//     res.render('individuals', {
-//         pageTitle: "Individuals",
-//         pageID: 'Home',
-//         speakers: data.speakers
-//     })
-
+    res.send(`
     
-
-// })
+        <li>
+        <h1>${speakers.name}<br> </h1>
+        <h4>${speakers.title} </h4>
+        <img src="/images/albums/${speakers.shortname}_1.jpg" alt="">
+        <p> ${speakers.description} </p>
+        </li>
+    `)
+})
 
 module.exports = router;

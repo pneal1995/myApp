@@ -1,5 +1,6 @@
 {
   "speakers": [{
+    "id" : 0,
     "title" : "2112 by Rush",
     "name": "Neil Peart",
     "shortname" : "Neil_Peart",
@@ -7,6 +8,7 @@
     "description": "<p>'2112' is a 20 minute long title track from Canadian rock band Rush's 1976 album of the same name. The overture and the first section, Temples of Syrinx, were released as a single and have been featured in most of Rush's setlists since. With the combined movements being twenty minutes and thirty-three seconds long, it is the longest song or suite in Rush's library.</p>",
     "artwork": ["Neil_Peart_1.jpg"]
   },{
+    "id" : 1,
     "title" : "When The Levee Breaks by Led Zeppelin",
     "name": "John Bonham",
     "shortname" : "John_Bonham",
@@ -14,6 +16,7 @@
     "description": "<p>'When the Levee Breaks' is a blues song written and first recorded by husband and wife Kansas Joe McCoy and Memphis Minnie in 1929. The song was re-worked by English rock group Led Zeppelin as the last song on Led Zeppelin IV, released in 1971. According to Led Zeppelin guitarist and producer Jimmy Page, the song's structure 'was a riff that I'd been working on, but Bonzo's drum sound really makes a difference on that point.' The famous drum performance was recorded by engineer Andy Johns by placing John Bonham and a new Ludwig drum kit at the bottom of a stairwell at Headley Grange, and recording it using two Beyerdynamic M160 microphones at the top, giving the distinctive resonant but slightly muffled sound. </p>",
     "artwork" : ["John_Bonham_1.jpg"]
   },{
+    "id" : 2,
     "title" : "Caravan by Buddy Rich",
     "name": "Buddy Rich",
     "shortname" : "Buddy_Rich",
