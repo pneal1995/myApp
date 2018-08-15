@@ -1,0 +1,15 @@
+<h1>Speakers</h1>
+<ul>
+<% speakers.forEach(function(index){ %>
+    <li>
+        <!-- <a href="/music/<%= index.id %>"></a> -->
+        <h2> <%= index.name %><br> </h2>
+        <div >
+                <%= index.summary %>
+        </div>
+        <img src="/images/speakers/<%= index.shortname %>.jpg" alt="">
+    </li>
+    
+
+<%})%>
+</ul>

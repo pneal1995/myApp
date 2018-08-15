@@ -1,16 +1,16 @@
 <h1>Works of Musical Genius</h1>
 <ul>
 <% speakers.forEach(function(index){ %>
-        <% console.log(index.id)  %>
     <li>
-            <h2> <a href="/music/<%= index.id %>"><%= index.name %></a><br> </h2>
-            <h3> <%= index.title %> </h3>
-            <img src="/images/albums/<%= index.shortname %>_1.jpg" alt="">
-            <p> <%= index.description %> </p>
+        <h4> <a href="/music/<%= index.id %>"><%= index.name %></a><br> </h4>
+        <!-- <div >
+                <%= index.summary %>
+        </div> -->
+        <h5> <%= index.title %> </h5>
+        <img src="/images/albums/<%= index.shortname %>_1.jpg" alt="">
+        <p> <%= index.description %> </p>
     </li>
-    <div >
-            <%= index.summary %>
-    </div>
+    
 
 <%})%>
 </ul>
